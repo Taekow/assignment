@@ -1,6 +1,6 @@
 # Taeko Owaki  
 Address: Kirkland WA 98034  
-Tel: 425-658-7121 | Email: [taeko.owaki@outlook.com]()  
+Tel: 425-658-7121 | Email: [taeko.owaki@outlook.com]
 
 ---------------
 ### Software Test Engineer
@@ -23,9 +23,10 @@ Tel: 425-658-7121 | Email: [taeko.owaki@outlook.com]()
   - Acted as project coordinator to handle communication between product development team in Japan and vendors performing testing in Taiwan
   - Defined bug handling process to facilitate reporting of issues and resolutions between development team in Japan and test team in Taiwan
   - Verified and Triaged bugs filed by testers to ensure quality of the bugs filed before passing them to the development team
+  - Created automation test cases using Selenium IDE and Webdriver
 
 ### Lemonade Lab. Inc, Tokyo Japan (8/2014 – 4/2015)
-#### Test Engineer
+#### Software Test Engineer
   - Responsible for setting up all test tasks including designing, executing and reporting test results
   - Hired as first tester of the team in startup environment and documented test tasks for future testers
   - Created and executed test plan for Android and iOS mobile application for fitness tracking
