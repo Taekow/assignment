@@ -1,6 +1,6 @@
 # Taeko Owaki  
 Address: Kirkland WA 98034  
-Tel: 425-658-7121 | Email: [taeko.owaki@outlook.com]
+Tel: 425-658-7121 | Email: [taeko.owaki@outlook.com]()
 
 ---------------
 ### Software Test Engineer
